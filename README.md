@@ -17,19 +17,19 @@ A Qt-based desktop application for recovering jpeg files from selected volumes, 
 
 **Main Window**
 
-![selecting_drive](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/8ced0ed7-388d-4d69-a7cb-7d91a90cf858)
+![selecting_drive](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/d055c298-887f-42f2-8411-9a5ff7b3fad3)
 
 **Selecting Output Directory**
 
-![output_directory](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/f36e59dd-ab94-45d0-8932-c830978860c6)
+![output_directory](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/127b4b99-e0f5-4304-a757-aaa9b510e739)
 
 **Recovery in Progress**
 
-![progress](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/f3f47a4f-754c-4d31-a96d-86d1c48390bb)
+![progress](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/99e01773-85aa-4cac-95b8-995c02653e3c)
 
 **Recovery Completed**
 
-![completed](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/25e53bc6-d716-40b7-ab26-5d1159aefba5)
+![completed](https://github.com/vrishab-singh/jpeg-recovery-tool/assets/96198045/83b37d70-8606-49bc-a36a-7c018824fd65)
 
 
 
